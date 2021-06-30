@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T13:36:34.322Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="fHmlmXEyAj2YDUACrabI" version="14.8.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2021-06-30T13:36:53.787Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="ffVLHPfD65-1L_8iDHwE" version="14.8.3" type="github" pages="11">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1544,7 +1544,7 @@
           <mxGeometry x="1581" y="38" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PTXv-qRooidWXyZqxhJ2-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;是否动态传值solutionId&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontSize=20;strokeWidth=2;" vertex="1" parent="ElFWBFVNyT4QZj3UM3UT-1">
-          <mxGeometry x="1476" y="238" width="150" height="120" as="geometry" />
+          <mxGeometry x="1476" y="230" width="150" height="128" as="geometry" />
         </mxCell>
         <mxCell id="PTXv-qRooidWXyZqxhJ2-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Yes&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;fontSize=20;strokeWidth=2;" edge="1" source="PTXv-qRooidWXyZqxhJ2-1" parent="ElFWBFVNyT4QZj3UM3UT-1">
           <mxGeometry x="-1" relative="1" as="geometry">
@@ -1566,7 +1566,7 @@
           <mxGeometry x="1430" y="450" width="170" height="72" as="geometry" />
         </mxCell>
         <mxCell id="PTXv-qRooidWXyZqxhJ2-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;使用所传solutionId样式&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=20;strokeWidth=2;" vertex="1" parent="ElFWBFVNyT4QZj3UM3UT-1">
-          <mxGeometry x="1721" y="268" width="120" height="60" as="geometry" />
+          <mxGeometry x="1721" y="268" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PTXv-qRooidWXyZqxhJ2-9" value="&lt;h1 style=&quot;font-size: 26px&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 26px ; font-weight: normal&quot;&gt;用户发布地图服务可以对地图服务设置权限，是否自己可见、是否是公共服务。自己可见服务只有自己可以使用。公共服务其他用户也将会看到，以及使用。&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 26px ; font-weight: normal&quot;&gt;管理员、超级管理员创建的底图服务默认为公共服务&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 26px ; font-weight: normal&quot;&gt;普通用户只可以编辑自己创建的地图服务&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;对于删除的地图服务，如存在正在用的配置，则在用户配置的地方，将会实时提示&lt;/font&gt;该服务标识已被创建者删除，请重新选择&lt;span&gt;！&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 23px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="ElFWBFVNyT4QZj3UM3UT-1">
           <mxGeometry x="-120" y="860" width="1110" height="270" as="geometry" />
